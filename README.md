@@ -6,6 +6,16 @@ Raka Dhaneswara
 ```
 Hello World!
 ```
+## Summary
+> - Membuat akun AWS
+> - Buat sebuah EC2 Instance
+> - SSH kedalam Instance yand telah dibuat
+> - Install Apache Webserver untuk menjalankan PHP
+> - Install PHP untuk menjalankan WordPress
+> - Install MySQL sebagai database
+> - Install WordPress
+> - Konfigurasi Wordpress yang telah dibuat
+
 ## 1. Membuat akun AWS
 Lakukan sign up dengan menggunakan free tier edition. Siapkan kebutuhan pendataan akun yang dibutuhkan aws.
 <img width="1210" alt="Screen Shot 2022-09-06 at 10 42 52 AM" src="https://user-images.githubusercontent.com/58630970/189055655-fd2aef10-b03e-49df-8111-1397fd9c8467.png">
